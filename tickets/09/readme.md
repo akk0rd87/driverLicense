@@ -1,5 +1,4 @@
 ![alt text](images/Screenshot_2025-03-25_123527.png?raw=true)
-![alt text](images/Screenshot_2025-03-25_123547.png?raw=true)
 ![alt text](images/Screenshot_2025-03-25_123622.png?raw=true)
 ![alt text](images/Screenshot_2025-03-25_123708.png?raw=true)
 ![alt text](images/Screenshot_2025-03-25_123737.png?raw=true)
